@@ -1,0 +1,21 @@
+body{
+    border: 10px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-Color:rgba(0, 213, 255, 0.438);
+}
+img{
+    align:"left";
+}
+h4{
+    text-align:"right";
+}
+#headings1{
+    text-align: right;
+    background-color: aliceblue;
+}
+h3{
+    background-color:goldenrod;
+}
